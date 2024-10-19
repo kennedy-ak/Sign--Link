@@ -8,7 +8,7 @@ import cv2
 import pickle
 
 # Directory where sign language videos are stored
-SIGN_VIDEO_DIR = 'C:/Users/akogo/Desktop/Sign- Link/videos'  # Update this with your actual path
+SIGN_VIDEO_DIR = 'videos'  # Update this with your actual path
 
 # Load the trained model for Sign to Text functionality
 MODEL_PATH = 'sign_language_recognition_model.h5'
